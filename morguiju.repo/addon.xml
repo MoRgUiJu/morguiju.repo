@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="morguiju.repo" name="MoRgUiJu REPO" version="1.0.0" provider-name="MoRgUiJu">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="MoRgUiJu REPO">
+            <info compressed="false">https://raw.githubusercontent.com/MoRgUiJu/morguiju.repo/master_repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/MoRgUiJu/morguiju.repo/master_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/MoRgUiJu/morguiju.repo/master_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Plugins obligatorios para KODI</summary>
+            <description></description>
+            <platform>all</platform>
+    </extension>
+</addon>
