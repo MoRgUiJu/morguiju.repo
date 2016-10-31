@@ -11,7 +11,7 @@
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Plugins obligatorios para KODI</summary>
+            <summary>Mejores Plugins para KODI.</summary>
             <description>Disfruta de los mejores plugins para KODI.</description>
             <platform>all</platform>
     </extension>
